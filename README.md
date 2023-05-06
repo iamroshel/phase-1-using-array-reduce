@@ -1,4 +1,4 @@
-# Using the Array Reduce Method
+# Using the Array Reduce Method c
 
 ## Learning Goals
 
